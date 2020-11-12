@@ -1,2 +1,2 @@
 # BreastCancerClassifierMLP
-A Breast Cancer Classifier using MLP. &lt;br \> 
+A Breast Cancer Classifier using MLP and random forest. 
